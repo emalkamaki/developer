@@ -1,4 +1,5 @@
 """ This is a caption from Jeff Knup's blog that explains Python classes well. """
+[Jeff Knup's blogpost](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 
 class Customer(object):
     """A customer of ABC Bank with a checking account. Customers have the
