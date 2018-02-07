@@ -1,4 +1,4 @@
-""" Creating a mask and inverting it to finding all values that do not fit the expected pattern in data """
+""" Creating a mask and inverting it to finding all values that do not fit the expected pattern in text data """
 
 # Create the series of countries: countries
 countries = gapminder.country
